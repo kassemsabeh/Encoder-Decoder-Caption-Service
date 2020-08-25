@@ -1,4 +1,4 @@
-# Attention Caption Service
+# Encoder-Decoder Caption Service
 This service is responsible for image captioning using an encoder-decoder network on image streams and the output is a vekg of each image.
 
 
